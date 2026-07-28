@@ -1,0 +1,6 @@
+{
+  "name": "HARZ TV",
+  "description": "HARZ TV - Live IPTV Streaming App for Channels & Entertainment",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
